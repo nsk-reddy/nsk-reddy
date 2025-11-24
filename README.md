@@ -5,7 +5,6 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nskrdev)
-  [![GitHub followers](https://img.shields.io/github/followers/nskrdev?style=for-the-badge&logo=github)](https://github.com/nskrdev)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=safari)](https://www.nskr.dev)
   
 </div>
