@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Freelancer;Open+Source+Contributor;AI+Enthusiast;AI+Inovations+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Freelancer;Open+Source+Contributor;AI+Inovations+Engineer" alt="Typing SVG" />
