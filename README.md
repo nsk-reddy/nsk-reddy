@@ -19,4 +19,4 @@ Hi there! I'm a passionate **Freelancer**, **Open Source Contributor**, and **AI
 - 🌱 I'm constantly learning and exploring new technologies in AI/ML, Cloud Computing, and Web Development
 - 👯 I'm looking to collaborate on open-source projects and innovative tech solutions
 - 💬 Ask me about AI, Software Development, and Open Source
-- ⚡ Fun fact: I believe in the power of code to change the world
+- ⚡ Accept everything just the way it is
