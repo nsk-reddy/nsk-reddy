@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Freelancer;Open+Source+Contributor;AI+Innovations+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Freelancer;AI+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nskrdev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nsk-reddy)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=safari)](https://www.nskr.dev)
   
 </div>
